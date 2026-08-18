@@ -31,4 +31,4 @@ AI Agent · Workflow Automation · Rust tooling
 
 ## Links
 
-🌐 [Blog](frostsdescent.com) · 📦 [Pizza Helper Studio](https://github.com/pizza-studio)
+🌐 [Blog](https://frostsdescent.com) · 📦 [Pizza Helper Studio](https://github.com/pizza-studio)
