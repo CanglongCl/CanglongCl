@@ -1,6 +1,6 @@
 # Hi, I'm Canglong (Lava) 👋
 
-**iOS/macOS Developer · Apple WWDC23 Swift Student Challenge Winner · Independent App Creator**
+**iOS/macOS Developer · Apple WWDC 23/24 Swift Student Challenge Winner · Independent App Creator**
 
 ---
 
